@@ -9,7 +9,7 @@ Root Character is the basic idea which can be used as basic material to form mor
 |     | 扩大 Expand/ Bigger | Big Bang |     | 变大 Make st bigger | Big | 扩大 Expand |
 |     | 缩小 Shrink |     |     | 缩小 Shrink | Small |     |
 | vo  | ✔ 正解, | voi | voil / voij | voo | vou | voe |
-|     | 🔆 太阳<br/>Sun | The Sun | ??? | 晒太阳<br/>sunbathing | sunny |     |
+|     | 🔆 太阳<br/>Sun | 太阳(天体)<br/>The Sun | ??? | 晒太阳<br/>Sunbathing | 阳光明媚的<br/>Sunny | ??? |
 |     |     |     |     |     |     |     |
 
 1. 这 This, This object, You, This act, ???, Here, Now
