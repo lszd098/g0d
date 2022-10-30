@@ -4,12 +4,27 @@ Root Character is the basic idea which can be used as basic material to form mor
 | --- | --- | --- | --- | --- | --- | --- |
 | ai  | I/ me | 意识 Consciousness | ail=I/ me | aio=Exist | aiu=My/Mine | aie=My current location |
 |     | This | This object/thing | This person in front of me = You | This action | ??? | This place = Here |
+| vo  | ✔ 正确, <br/>Correct | voi | voil / voij | voo | vou | voe |
+| xi  | ❌ 错误,<br/>Wrong | xii | xil/xij | xio | xiu | xie |
 | wan | One | wani <br/> =An object/ One (in numbering) | wanil<br/>=A human | wano<br/>=Unify into one | wanu<br/>=One of | wane<br/>=Place of one |
 |     | 重量 Mass |     |     |     | 重的 Heavy |     |
 |     | 扩大 Expand/ Bigger | Big Bang |     | 变大 Make st bigger | Big | 扩大 Expand |
 |     | 缩小 Shrink |     |     | 缩小 Shrink | Small |     |
-| vo  | ✔ 正解, | voi | voil / voij | voo | vou | voe |
-|     | 🔆 太阳<br/>Sun | 太阳(天体)<br/>The Sun | ??? | 晒太阳<br/>Sunbathing | 阳光明媚的<br/>Sunny | ??? |
+|     | 🔆 太阳<br/>Sun | =太阳(天体)<br/>The Sun | ??? | =晒太阳<br/>Sunbathing | =阳光明媚的<br/>Sunny | ??? |
+|     | 🌜月亮<br/>Moon | =月亮(天体)<br/>The Moon | ??? | =晒月亮<br/>Moonbathing | 有月光的<br/>Moony | =Location of Moon in Space |
+|     | 💸 钱<br/>Money |     |     | =赚钱<br/>To earn money | =财经的<br/>Money related | =银行<br/>Bank |
+|     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |
 |     |     |     |     |     |     |     |
 
 1. 这 This, This object, You, This act, ???, Here, Now
