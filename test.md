@@ -1,17 +1,59 @@
-b vs d
+常用的 Commonly used:
 
-- -b = adjective (describe a noun or verb)
+---
+
+数字 Numbering:
+
+1. One
   
-  - Normally adjective describe the next word (noun or verb)
-    
-    - eg: He is the final person to finish it.
-      
-    - eg: She is a beautiful dancer.
-      
-- -d = adverb (describe a whole situation)
+2. Ten = Deq
   
-  - Adverb can be placed at the first or last word of a sentence,
-    
-    - eg: Finally, he finished it.
-      
-    - eg: She dance beautifully
+3. Eleven =
+  
+4. Hundred = Heq
+  
+5. Thousand = Kii
+  
+6. Million (1 thousand Thousand) = Mei
+  
+7. Billion (1 thousand Million) = Gii
+  
+8. 一半 Half
+  
+9. 加减乘除
+  
+10. 大数字 Big numbers: https://simple.wikipedia.org/wiki/Names_of_large_numbers
+  
+
+---
+
+颜色 Color:
+
+1. 🔴 Red
+  
+2. 🟡 Yellow
+  
+3. 🔵 Blue
+  
+4. Orange = 🔴+ 🟡
+  
+5. Green = 🟡 + 🔵
+  
+6. Purple = 🔴 + 🔵
+  
+7. ⚫ Black = All + Color
+  
+8. Red-brown = ⚫ + 🔴
+  
+9. Yellow-brown = ⚫ + 🟡
+  
+10. Rainbow
+  
+11. White = All + Rainbow
+  
+
+---
+
+时间性 Timing/Frequency:
+
+1. 早午晚
